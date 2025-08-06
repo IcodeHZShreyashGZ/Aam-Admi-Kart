@@ -11,7 +11,7 @@ const products = [
         id: 2,
         name: "Organic Tomatoes",
         price: 60,
-        image: "https://images.unsplash.com/photo-1593529467220-9d721ceb9a78?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1630&q=80",
+        image: "https://www.simplyseed.co.uk/user/blog-images/The%20Best%20Small%20Orange%20Tomatoes.webp",
         category: "vegetables"
     },
     {
@@ -25,7 +25,7 @@ const products = [
         id: 4,
         name: "Orange Juice",
         price: 90,
-        image: "https://images.unsplash.com/photo-1615486364181-657d820f1b1f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+        image: "https://www.juicebuff.com/wp-content/uploads/2019/04/Healthy-Orange-Juice-In-A-Glass.jpg",
         category: "beverages"
     },
     {
